@@ -1,0 +1,54 @@
+{
+    "name": "Grunt",
+    "description": "<p>In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it, a task runner can do most of that mundane work for you&mdash;and your team&mdash;with basically zero effort.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/grunt-logo.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "javascript",
+        "single page applications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/grunt\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Grunt",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/grunt-logo.jpg",
+            "humanURL": "http:\/\/gruntjs.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/grunt-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/gruntjs.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/gruntjs.com\/rss"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/gruntjs\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gruntjs"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/gruntjs.com\/"
+        }
+    ]
+}
